@@ -1,4 +1,4 @@
-// HelloDate.java.  
+//Trial 1  HelloDate.java.  
 import java.util.*;
 
 /** The second example program, and the first example of a class comment.
